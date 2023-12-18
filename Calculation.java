@@ -3,6 +3,7 @@ public class Calculation {
 
     static Integer b=10;
     static Integer d=90;
+    static Integer e=100;
 
     public static void main(String args[]){
 
@@ -10,6 +11,8 @@ public class Calculation {
         System.out.println(c);
 
         System.out.println(d);
+
+        System.out.println(e);
 
 
     }
